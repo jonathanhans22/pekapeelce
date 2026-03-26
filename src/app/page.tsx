@@ -5,7 +5,7 @@ import { useState } from "react";
 
 const GROUP_MEMBERS = [
   "jonathanhans.2205@gmail.com",
-  "email.anggota.lain@ui.ac.id"
+  "jefftirza@gmail.com"
 ];
 
 const membersData = [
